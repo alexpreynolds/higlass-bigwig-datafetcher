@@ -28,3 +28,5 @@ lib/vendor
 app/test*.html
 es
 *.tgz
+dist/**
+dist.zip
