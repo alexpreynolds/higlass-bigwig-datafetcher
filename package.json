@@ -1,6 +1,6 @@
 {
   "name": "@apr144/higlass-bigwig-datafetcher",
-  "version": "0.2.0",
+  "version": "0.2.0-020925-001",
   "description": "Bigwig Data Fetcher for HiGlass",
   "private": false,
   "author": "Alexander Veit",
